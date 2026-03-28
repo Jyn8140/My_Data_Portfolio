@@ -32,5 +32,14 @@ To ensure high standards of analytical rigor, I built a custom **CI/CD pipeline*
 * **Data Cleaning:** Implemented automated checks for null values and data inconsistencies.
 
 ---
-**Contact:** Jyn  
-*BSc Graduate 2024 | Data Science & Automation Enthusiast*
+
+---
+---
+## 📬 Let's Connect!
+I am a **Data Science & Automation Specialist** (BSc '24) passionate about building intelligent, automated data systems. 
+
+* **LinkedIn:** [linkedin.com/in/your-profile-name](https://linkedin.com/in/your-profile-name)
+* **Email:** [jaminemuete@gmail.com](mailto:jaminemuete@gmail.com)
+
+---
+*“Turning raw data into automated insights.”*
