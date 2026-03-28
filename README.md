@@ -38,7 +38,7 @@ To ensure high standards of analytical rigor, I built a custom **CI/CD pipeline*
 ## 📬 Let's Connect!
 I am a **Data Science & Automation Specialist** (BSc '24) passionate about building intelligent, automated data systems. 
 
-* **LinkedIn:** [linkedin.com/in/your-profile-name](https://linkedin.com/in/your-profile-name)
+* **LinkedIn:** [https://www.linkedin.com/in/jamine-muete-4697a7223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/jamine-muete-4697a7223?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * **Email:** [jaminemuete@gmail.com](mailto:jaminemuete@gmail.com)
 
 ---
