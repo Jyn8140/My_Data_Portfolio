@@ -1,0 +1,301 @@
+title,category,region,parent_region,condition,attrs,brand,color,model,yom,mileage,body_type,fuel,drive_train,trans,seat,registered,price
+Toyota Land Cruiser Prado 2016 Black,Cars,Mvita,Mombasa,Foreign Used,"First registration, No faults",Toyota,Black,Land Cruiser Prado,2016,87000.0,NULL,NULL,NULL,Automatic,,NULL,6500000
+Mazda Demio 2014 Brown,Cars,Langata,Nairobi,Foreign Used,"First owner, No faults",Mazda,Brown,Demio,2014,92000.0,NULL,NULL,NULL,Automatic,,Yes,970000
+Clean NV300 Caravan 2014 Model Dielsel 16 Seater,Buses & Microbuses,Kilimani,Nairobi,Foreign Used,Nissan,Nissan,NULL,Caravan (Urvan),2014,180000.0,NULL,NULL,NULL,NULL,,NULL,2550000
+Toyota Crown 2014 Pearl,Cars,Kilimani,Nairobi,Foreign Used,No faults,Toyota,Pearl,Crown,2014,75000.0,NULL,NULL,NULL,Automatic,,No,2100000
+Honda Fit 2014 Black,Cars,Mvita,Mombasa,Foreign Used,No faults,Honda,Black,Fit,2014,58000.0,NULL,NULL,NULL,Automatic,,Yes,880000
+Mitsubishi Delica 2013 White,Cars,Mvita,Mombasa,Foreign Used,"First registration, No faults, Unpainted",Mitsubishi,White,Delica,2013,88000.0,NULL,NULL,NULL,Automatic,,Yes,630000
+New Toyota Premio 2013 Red,Cars,Mvita,Mombasa,Brand New,"No faults, First registration",Toyota,Red,Premio,2013,45000.0,NULL,NULL,NULL,Automatic,,No,1500000
+Toyota Sienta 2014 1.5 AWD Gray,Cars,Ganjoni,Mombasa,Foreign Used,No faults,Toyota,Gray,Sienta,2014,51000.0,Minivan,Petrol,All Wheel,Automatic,7.0,Yes,1200000
+BMW X4 2015 xDrive35i Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,BMW,Black,X4,2015,63128.0,NULL,NULL,NULL,Automatic,,No,5800000
+Mitsubishi Outlander 2015 White,Cars,Lavington,Nairobi,Foreign Used,"Unpainted, Original parts, No faults",Mitsubishi,White,Outlander,2015,40382.0,SUV,Petrol,Front Wheel,Automatic,,Yes,2900000
+Toyota Ractis 2012 1.3 FWD Silver,Cars,Lavington,Nairobi,Kenyan Used,Toyota,Toyota,Silver,Ractis,2012,167704.0,Hatchback,Petrol,Front Wheel,Automatic,5.0,NULL,800000
+Lexus NX 2016 200t FWD Beige,Cars,Kilimani,Nairobi,Foreign Used,"No faults, Unpainted, Original parts",Lexus,Beige,NX,2016,35000.0,SUV,Petrol,Front Wheel,Automatic,5.0,No,4750000
+New Nissan March 2012 Pink,Cars,Mombasa CBD,Mombasa,Brand New,No faults,Nissan,Pink,March,2012,73817.0,NULL,NULL,NULL,Automatic,,Yes,530000
+BMW 520i 2014 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,BMW,Black,520i,2014,80000.0,NULL,NULL,NULL,Automatic,,No,5700000
+Very Clean Isuzu FRR Truck 2015 Model,Trucks & Trailers,Thome,Nairobi,Used,Used,Isuzu,White,F SERIES,2015,,NULL,Diesel,NULL,Manual,,NULL,3520000
+Mazda CX-5 2014 Sport FWD Blue,Cars,Ridgeways,Nairobi,Foreign Used,No faults,Mazda,Blue,CX-5,2014,,SUV,Petrol,Front Wheel,Automatic,5.0,NULL,2060000
+BMW X3 2013 White,Cars,Mvita,Mombasa,Foreign Used,No faults,BMW,White,X3,2013,,NULL,NULL,NULL,Automatic,,Yes,3400000
+Mitsubishi RVR 2014 Blue,Cars,Mombasa CBD,Mombasa,Foreign Used,"Unpainted, Original parts, No faults",Mitsubishi,Blue,RVR,2014,142000.0,NULL,NULL,NULL,Automatic,,No,1980000
+Toyota Harrier 2010 2.4 Black,Cars,Ridgeways,Nairobi,Kenyan Used,"First registration, First owner",Toyota,Black,Harrier,2010,110643.0,SUV,Petrol,Front Wheel,Automatic,5.0,Yes,1850000
+Volkswagen Touareg 2006 3.0 V6 TDi Automatic Black,Cars,Lavington,Nairobi,Kenyan Used,Original parts,Volkswagen,Black,Touareg,2006,180000.0,SUV,Diesel,All Wheel,Automatic,5.0,Yes,1850000
+Truck Lorry,Trucks & Trailers,Shanzu,Mombasa,Used,Used,Ashok Leyland,NULL,1920,2014,,NULL,Diesel,NULL,NULL,,NULL,1600000
+Toyota Axio 2011 Silver,Cars,Kasarani,Nairobi,Kenyan Used,First owner,Toyota,Silver,Axio,2011,97452.0,NULL,NULL,NULL,Automatic,,Yes,880000
+Lexus RX 2016 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Lexus,Black,RX,2016,,NULL,NULL,NULL,Automatic,,Yes,14500000
+Toyota Wish 2014 Blue,Cars,Mombasa CBD,Mombasa,Foreign Used,"Original parts, First registration",Toyota,Blue,Wish,2014,56723.0,NULL,NULL,NULL,Automatic,,Yes,1480000
+Mazda CX-5 2014 Red,Cars,Nairobi Central,Nairobi,Foreign Used,First registration,Mazda,Red,CX-5,2014,85239.0,NULL,NULL,NULL,Automatic,,Yes,2250000
+Nissan Van,Buses & Microbuses,Machakos Town,Machakos,Kenyan Used,Nissan,Nissan,NULL,Caravan (Urvan),2013,267000.0,NULL,NULL,NULL,Manual,,NULL,450000
+Nissan NV200 2015 White,Buses & Microbuses,Changamwe,Mombasa,Foreign Used,Nissan,Nissan,NULL,NV200,2015,112000.0,NULL,NULL,NULL,NULL,,NULL,1050000
+Volvo NL12 for Sale,Trucks & Trailers,Embakasi,Nairobi,Used,Used,Volvo,NULL,NULL,1994,,NULL,NULL,NULL,NULL,,NULL,1200000
+Volkswagen Golf GTI 2012 White,Cars,Langata,Nairobi,Kenyan Used,"No faults, First registration, Original parts",Volkswagen,White,Golf GTI,2012,121000.0,NULL,NULL,NULL,Automatic,,Yes,1180000
+Mazda Axela 2014 SV Premium Black,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,Mazda,Black,Axela,2014,80000.0,NULL,NULL,NULL,Automatic,,No,1300000
+Mitsubishi Fuso Canter,Trucks & Trailers,Mombasa CBD,Mombasa,Used,Used,Mitsubishi,NULL,NULL,2014,,NULL,NULL,NULL,NULL,,NULL,2600000
+Toyota Mark X 2014 Silver,Cars,Kilimani,Nairobi,Foreign Used,No faults,Toyota,Silver,Mark X,2014,53580.0,NULL,NULL,NULL,Automatic,,Yes,1980000
+Nissan Note 2015 Silver,Cars,Langata,Nairobi,Foreign Used,"No faults, Unpainted, Original parts",Nissan,Silver,Note,2015,26000.0,NULL,NULL,NULL,Automatic,,No,950000
+Toyota Harrier 2014 Off White,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,Off white,Harrier,2014,58066.0,NULL,NULL,NULL,Automatic,,No,4100000
+Toyota Hiace Box Petrol on Sale,Buses & Microbuses,Nairobi Central,Nairobi,Kenyan Used,Toyota,Toyota,Grey,HiAce,2008,178769.0,NULL,NULL,NULL,Automatic,,NULL,960000
+Mazda Demio 2011 Gray,Cars,Lavington,Nairobi,Kenyan Used,Mazda,Mazda,Gray,Demio,2011,208874.0,NULL,Petrol,NULL,Automatic,,NULL,450000
+"Isuzu Elf,Year 2014manual Transmission",Trucks & Trailers,Mombasa CBD,Mombasa,Brand New,Brand New,Isuzu,NULL,NULL,2013,,NULL,NULL,NULL,NULL,,NULL,2150000
+Nissan March 2014 White,Cars,Ridgeways,Nairobi,Foreign Used,No faults,Nissan,White,March,2014,61735.0,NULL,NULL,NULL,Automatic,,Yes,680000
+Land Rover Range Rover 1979 Green,Cars,Kisumu Central,Kisumu,Kenyan Used,First owner,Land Rover,Green,Range Rover,1979,,NULL,NULL,NULL,Manual,,Yes,400000
+BMW X5 2002 3.0 Brown,Cars,Karen,Nairobi,Kenyan Used,"First registration, No faults",BMW,Brown,X5,2002,155000.0,SUV,NULL,All Wheel,Automatic,,Yes,795000
+Volkswagen Touareg 2014 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,Volkswagen,Black,Touareg,2014,56000.0,NULL,NULL,NULL,Automatic,,No,5200000
+Isuzu Nkr. Yr 2019,Trucks & Trailers,Ridgeways,Nairobi,Used,Used,Isuzu,White,N Series,2019,,NULL,Diesel,NULL,Manual,,NULL,3050000
+Toyota Harrier 2014 Black,Cars,Kilimani,Nairobi,Foreign Used,"First registration, Original parts, No faults",Toyota,Black,Harrier,2014,48592.0,NULL,NULL,NULL,Automatic,,No,3450000
+Subaru Forester 2014 Gray,Cars,Mombasa CBD,Mombasa,Foreign Used,"First registration, No faults, First owner",Subaru,Gray,Forester,2014,52000.0,NULL,NULL,NULL,Automatic,,No,2300000
+New BMW 520i 2014 Black,Cars,Mvita,Mombasa,Brand New,No faults,BMW,Black,520i,2014,77000.0,NULL,NULL,NULL,Automatic,,NULL,2350000
+Toyota Townace Pickup,Trucks & Trailers,Kileleshwa,Nairobi,Used,Used,Toyota,White,HiAce,2010,,NULL,Petrol,NULL,Manual,,NULL,785000
+Isuzu Frr Kbw,Trucks & Trailers,Eldoret CBD,Uasin Gishu,Used,Used,Isuzu,White,F SERIES,2013,,NULL,Diesel,NULL,Manual,,NULL,2600000
+Volkswagen Touareg 2006 Gray,Cars,Parklands/Highridge,Nairobi,Kenyan Used,First owner,Volkswagen,Gray,Touareg,2006,,NULL,NULL,NULL,Automatic,,Yes,1550000
+Subaru Forester 2014 Red,Cars,Kilimani,Nairobi,Foreign Used,First registration,Subaru,Red,Forester,2014,,SUV,Petrol,All Wheel,Automatic,,Yes,2775000
+Honda Stepwgn 2014 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Honda,Black,Stepwgn,2014,63210.0,NULL,NULL,NULL,Automatic,,Yes,1500000
+Nissan Serena 2014 Pink,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Nissan,Pink,Serena,2014,69871.0,NULL,NULL,NULL,Automatic,,Yes,1200000
+Mazda Atenza 2014 White,Cars,Langata,Nairobi,Foreign Used,"First registration, Original parts, No faults",Mazda,White,Atenza,2014,90000.0,NULL,NULL,NULL,Automatic,,Yes,1580000
+Mazda CX-5 2016 Red,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,Mazda,Red,CX-5,2016,51238.0,NULL,NULL,NULL,Automatic,,No,2900000
+Toyota Land Cruiser Prado 2015 2.7 VVT-i Brown,Cars,Mvita,Mombasa,Foreign Used,No faults,Toyota,Brown,Land Cruiser Prado,2015,45260.0,SUV,Petrol,All Wheel,Automatic,5.0,No,6500000
+Ashok Leyland//With Toyota Engine,Trucks & Trailers,Nakuru Town East,Nakuru,Used,Used,Ashok Leyland,NULL,NULL,2008,,NULL,NULL,NULL,NULL,,NULL,520000
+Chopper 9L Hiace,Buses & Microbuses,Tudor,Mombasa,Foreign Used,Toyota,Toyota,NULL,Grand HiAce,2015,101000.0,NULL,NULL,NULL,NULL,,NULL,3400000
+Nissan Note 2014 SV Premium Pink,Cars,Ridgeways,Nairobi,Foreign Used,First registration,Nissan,Pink,Note,2014,91000.0,NULL,NULL,NULL,Automatic,,Yes,880000
+Mitsubishi Canter Tipper,Trucks & Trailers,Tudor,Mombasa,Used,Used,Mitsubishi,NULL,Canter,2014,,NULL,Diesel,NULL,NULL,,NULL,2800000
+Mazda CX-5 2014 Grand Touring FWD Red,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Mazda,Red,CX-5,2014,,SUV,Petrol,NULL,Automatic,5.0,No,2300000
+Nissan Note 2013 Brown,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Nissan,Brown,Note,2013,50000.0,NULL,NULL,NULL,Automatic,,Yes,780000
+Subaru Impreza 2014 White,Cars,Mvita,Mombasa,Foreign Used,"Original parts, First owner, First registration",Subaru,White,Impreza,2014,90000.0,NULL,NULL,NULL,Automatic,,NULL,1250000
+BMW 328i 2014 Blue,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,BMW,Blue,328i,2014,68553.0,NULL,NULL,NULL,Automatic,,Yes,2700000
+"Isuzu Elf,Year 2015 Manual",Trucks & Trailers,Mombasa CBD,Mombasa,Brand New,Brand New,Isuzu,NULL,NULL,2014,,NULL,NULL,NULL,NULL,,NULL,3650000
+Honda Fit Shuttle 2014 Silver,Cars,Mombasa CBD,Mombasa,Foreign Used,"Original parts, No faults",Honda,Silver,Fit Shuttle,2014,74123.0,NULL,NULL,NULL,Automatic,,NULL,1130000
+Mitsubishi Delica 2013 White,Cars,Mvita,Mombasa,Foreign Used,No faults,Mitsubishi,White,Delica,2013,75000.0,NULL,NULL,NULL,Automatic,,Yes,1250000
+Nissan Nv350,Buses & Microbuses,Mbaraki,Mombasa,Foreign Used,Nissan,Nissan,NULL,Caravan (Urvan),2013,91000.0,NULL,NULL,NULL,NULL,,NULL,1750000
+Volkswagen Tiguan 2014 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Volkswagen,Black,Tiguan,2014,78000.0,NULL,NULL,NULL,Automatic,,No,2300000
+Mitshubishi Canter Single 2005 Model Local,Trucks & Trailers,Parklands/Highridge,Nairobi,Used,Used,Mitsubishi,White,Canter,2005,,NULL,Diesel,NULL,Manual,,NULL,750000
+Subaru Forester 2014 SV Premium Silver,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Subaru,Silver,Forester,2014,47500.0,NULL,NULL,NULL,Automatic,,No,2400000
+Canter 4D32,Trucks & Trailers,Ruiru,Kiambu,Used,Used,Mitsubishi,White,Canter,1999,,NULL,Diesel,NULL,Manual,,NULL,750000
+Isuzu NKR 2013 White,Trucks & Trailers,Kasarani,Nairobi,Used,Used,Isuzu,White,NULL,2013,,NULL,Diesel,NULL,Manual,,NULL,2000000
+Toyota Sienta 2012 Black,Cars,Kikuyu,Kiambu,Kenyan Used,Original parts,Toyota,Black,Sienta,2012,180000.0,NULL,NULL,NULL,Automatic,,Yes,800000
+Mitsubishi Delica 2014 Black,Cars,Kilimani,Nairobi,Foreign Used,No faults,Mitsubishi,Black,Delica,2014,122543.0,NULL,NULL,NULL,Automatic,,Yes,1820000
+Toyota Land Cruiser Prado 2014 2.7 VVT-i Gold,Cars,Mombasa CBD,Mombasa,Foreign Used,"First owner, First registration",Toyota,Gold,Land Cruiser Prado,2014,,SUV,Petrol,All Wheel,Automatic,5.0,No,5600000
+Toyota Corolla Rumion 2014 Blue,Cars,Kilimani,Nairobi,Foreign Used,No faults,Toyota,Blue,Corolla Rumion,2014,54000.0,NULL,NULL,NULL,Automatic,,Yes,1330000
+BMW 120i 2014 Gray,Cars,Mombasa CBD,Mombasa,Foreign Used,"Unpainted, Original parts",BMW,Gray,120i,2014,112000.0,NULL,NULL,NULL,Automatic,,Yes,1600000
+BMW X1 2014 White,Cars,Mombasa CBD,Mombasa,Kenyan Used,No faults,BMW,White,X1,2014,96000.0,NULL,NULL,NULL,Automatic,,Yes,2000000
+Nissan Note 2014 SV Premium Black,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,Nissan,Black,Note,2014,70000.0,NULL,NULL,NULL,Automatic,,No,900000
+Mercedes-Benz E250 2014 SV Premium Black,Cars,Nairobi Central,Nairobi,Kenyan Used,"Unpainted, No faults, Original parts",Mercedes-Benz,Black,E250,2014,100555.0,NULL,NULL,NULL,Automatic,,Yes,3200000
+Toyota Sienta 2015 Blue,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,Blue,Sienta,2015,50000.0,NULL,NULL,NULL,Automatic,,Yes,1400000
+Mitsubishi Pajero 2014 V80 3.2 VR-II Silver,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Mitsubishi,Silver,Pajero,2014,92000.0,SUV,Diesel,All Wheel,Automatic,,Yes,4500000
+Mazda Verisa 2013 Purple,Cars,Lavington,Nairobi,Kenyan Used,Mazda,Mazda,Purple,Verisa,2013,125277.0,NULL,Petrol,NULL,Automatic,,NULL,650000
+Volkswagen Passat 2014 Silver,Cars,Kileleshwa,Nairobi,Foreign Used,No faults,Volkswagen,Silver,Passat,2014,58000.0,NULL,NULL,NULL,Automatic,,Yes,2495000
+Suzuki Every Van 2014,Buses & Microbuses,Nairobi,,Foreign Used,Suzuki,Suzuki,White,Every,2014,,NULL,NULL,NULL,Automatic,,NULL,775000
+Honda Fit 2014 Blue,Cars,Kilimani,Nairobi,Foreign Used,No faults,Honda,Blue,Fit,2014,68523.0,NULL,NULL,NULL,Automatic,,No,1100000
+Volkswagen Golf 2012 Blue,Cars,Ridgeways,Nairobi,Kenyan Used,"First owner, After crash, Original parts",Volkswagen,Blue,Golf,2012,49252.0,NULL,NULL,NULL,Automatic,,Yes,260000
+Mitsubishi RVR 2014 Blue,Cars,Mvita,Mombasa,Foreign Used,No faults,Mitsubishi,Blue,RVR,2014,59000.0,NULL,NULL,NULL,Automatic,,Yes,2200000
+Honda Fit 2014 White,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Honda,White,Fit,2014,,NULL,NULL,NULL,Automatic,,No,950000
+Toyota Vitz 2014 1.0 FWD 5dr White,Cars,Thika,Kiambu,Kenyan Used,First owner,Toyota,White,Vitz,2014,86800.0,Hatchback,Petrol,Front Wheel,Automatic,5.0,Yes,810000
+Honda Freed 2008 Brown,Cars,Kasarani,Nairobi,Kenyan Used,First owner,Honda,Brown,Freed,2008,,NULL,NULL,NULL,Automatic,,NULL,709000
+Honda CR-V 2007 Black,Cars,Ridgeways,Nairobi,Kenyan Used,"Unpainted, First owner",Honda,Black,CR-V,2007,135751.0,NULL,NULL,NULL,Automatic,,Yes,1180000
+BMW 320i 2014 White,Cars,Mombasa CBD,Mombasa,Foreign Used,"First registration, No faults, First owner",BMW,White,320i,2014,78500.0,NULL,NULL,NULL,Automatic,,Yes,2150000
+Toyota Matatu on Sale,Buses & Microbuses,Nakuru Town East,Nakuru,Kenyan Used,Toyota,Toyota,NULL,Grand HiAce,2009,170000.0,NULL,NULL,NULL,Automatic,,NULL,1150000
+Mazda Flair 2014 Blue,Cars,Langata,Nairobi,Foreign Used,"First owner, No faults",Mazda,Blue,Flair,2014,148000.0,NULL,NULL,NULL,Automatic,,Yes,630000
+Mazda CX-3 2016 Red,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,Mazda,Red,CX-3,2016,76000.0,NULL,NULL,NULL,Automatic,,No,1800000
+BMW 116i 2014 White,Cars,Mombasa CBD,Mombasa,Foreign Used,"No faults, First registration, First owner",BMW,White,116i,2014,,NULL,NULL,NULL,Automatic,,No,1600000
+Subaru Levorg 2015 2.0 GT-S EyeSight Blue,Cars,Mbaraki,Mombasa,Foreign Used,No faults,Subaru,Blue,Levorg,2015,63127.0,Station Wagon,Petrol,All Wheel,Automatic,5.0,NULL,2500000
+Honda Fit 2013 Black,Cars,Ganjoni,Mombasa,Foreign Used,"First registration, No faults, First owner",Honda,Black,Fit,2013,86536.0,NULL,NULL,NULL,Automatic,,Yes,750000
+Volkswagen Golf Variant 2014 Black,Cars,Kilimani,Nairobi,Foreign Used,No faults,Volkswagen,Black,Golf Variant,2014,125000.0,NULL,NULL,NULL,Automatic,,Yes,1490000
+Honda CR-V 2009 2.4 EX Automatic Silver,Cars,Nairobi Central,Nairobi,Kenyan Used,"No faults, Unpainted, Original parts",Honda,Silver,CR-V,2009,140000.0,NULL,Petrol,Front Wheel,Automatic,5.0,Yes,1300000
+Volkswagen Tiguan 2014 White,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Volkswagen,White,Tiguan,2014,52741.0,NULL,NULL,NULL,Automatic,,No,2400000
+Mitsubishi Outlander 2016 ES FWD White,Cars,Mombasa CBD,Mombasa,Foreign Used,"First owner, First registration, Original parts",Mitsubishi,White,Outlander,2016,56390.0,SUV,Petrol,Front Wheel,Automatic,7.0,NULL,3100000
+Nissan March 2015 Pink,Cars,Kilimani,Nairobi,Foreign Used,No faults,Nissan,Pink,March,2015,100000.0,NULL,NULL,NULL,Automatic,,Yes,790000
+Shacman F2000 Tipper,Trucks & Trailers,Municipality,Meru,Used,Used,Shacman,NULL,NULL,2018,,NULL,NULL,NULL,NULL,,NULL,5100000
+Toyota Succeed 2006 Silver,Cars,Kerugoya,Kirinyaga,Kenyan Used,Original parts,Toyota,Silver,Succeed,2006,135588.0,NULL,NULL,NULL,Automatic,,Yes,630000
+Volkswagen Touran 2013 Silver,Cars,Mvita,Mombasa,Foreign Used,"First registration, No faults, First owner",Volkswagen,Silver,Touran,2013,98065.0,NULL,NULL,NULL,Automatic,,Yes,1300000
+New Toyota Succeed 2015 Silver,Cars,Tudor,Mombasa,Brand New,No faults,Toyota,Silver,Succeed,2015,95775.0,NULL,NULL,NULL,Automatic,,Yes,1040000
+Toyota Wish 2016 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,Black,Wish,2016,,NULL,NULL,NULL,Automatic,,Yes,1500000
+Toyota Harrier 2014 2.0 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,Black,Harrier,2014,83962.0,SUV,Petrol,Front Wheel,Automatic,5.0,No,3400000
+Isuzu Truck .,Trucks & Trailers,Donholm,Nairobi,NULL,Isuzu,Isuzu,NULL,N Series,NULL,,NULL,NULL,NULL,NULL,,NULL,810000
+Toyota HiAce 2013 Silver,Buses & Microbuses,Mvita,Mombasa,Foreign Used,Toyota,Toyota,Silver,HiAce,2013,98420.0,NULL,NULL,NULL,Automatic,,Yes,2600000
+Mitsubishi Lancer / Cedia 2002 White,Cars,Syokimau,Machakos,Kenyan Used,No faults,Mitsubishi,White,Lancer / Cedia,2002,,NULL,NULL,NULL,Automatic,,Yes,250000
+Volkswagen Golf 2014 White,Cars,Karen,Nairobi,Foreign Used,"No faults, Original parts, First registration",Volkswagen,White,Golf,2014,74680.0,NULL,NULL,NULL,Automatic,,Yes,1400000
+BMW X3 2013 xDrive28i Brown,Cars,Kileleshwa,Nairobi,Foreign Used,"First registration, Original parts",BMW,Brown,X3,2013,89000.0,SUV,Petrol,All Wheel,Automatic,5.0,Yes,3495000
+Toyota Wish 2015 White,Cars,Mombasa CBD,Mombasa,Foreign Used,Original parts,Toyota,White,Wish,2015,85636.0,NULL,NULL,NULL,Automatic,,Yes,1700000
+Mitsubishi Fuso Long Chassis,Trucks & Trailers,Mombasa CBD,Mombasa,Used,Used,Mitsubishi,NULL,Canter,2014,,NULL,Diesel,NULL,NULL,,NULL,2600000
+Quick Sale,Buses & Microbuses,Westlands,Nairobi,Kenyan Used,Unpainted,Nissan,White,Caravan (Urvan),2000,,NULL,NULL,NULL,Manual,,NULL,450000
+Volkswagen Passat 2014 Pearl,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Volkswagen,Pearl,Passat,2014,,NULL,NULL,NULL,Automatic,,No,1750000
+Volkswagen Tiguan 2014 Gray,Cars,Nairobi Central,Nairobi,Foreign Used,No faults,Volkswagen,Gray,Tiguan,2014,77000.0,SUV,Petrol,Front Wheel,Automatic,,NULL,2800000
+New Toyota 4-Runner 2012 Black,Cars,Tudor,Mombasa,Brand New,Toyota,Toyota,Black,4-Runner,2012,24523.0,NULL,NULL,NULL,Automatic,,Yes,1000000
+Mazda Demio 2013 Gray,Cars,Mombasa CBD,Mombasa,Kenyan Used,No faults,Mazda,Gray,Demio,2013,77000.0,NULL,NULL,NULL,Automatic,,Yes,590000
+Nissan Note 2015 Blue,Cars,Tudor,Mombasa,Foreign Used,First owner,Nissan,Blue,Note,2015,54123.0,NULL,NULL,NULL,Automatic,,Yes,930000
+Subaru Forester 2009 2.5XT Black,Cars,Lavington,Nairobi,Kenyan Used,Subaru,Subaru,Black,Forester,2009,145000.0,SUV,Petrol,All Wheel,Automatic,5.0,NULL,1400000
+Toyota Auris 2014,Cars,Mombasa CBD,Mombasa,Foreign Used,Original parts,Toyota,Other,Auris,2014,78584.0,NULL,NULL,NULL,Automatic,,NULL,1450000
+Honda Stream 2014 White,Cars,Mvita,Mombasa,Foreign Used,No faults,Honda,White,Stream,2014,90000.0,NULL,NULL,NULL,Automatic,,Yes,1250000
+Toyota Hilux 2013 Burgandy,Cars,Karen,Nairobi,Kenyan Used,"First registration, Original parts",Toyota,Burgandy,Hilux,2013,122000.0,NULL,NULL,NULL,Manual,,Yes,1899000
+Toyota RAV4 2014 SV Premium Black,Cars,Kilimani,Nairobi,Foreign Used,Original parts,Toyota,Black,RAV4,2014,,NULL,NULL,NULL,Automatic,,Yes,2800000
+BMW 320i 2006 Blue,Cars,Thome,Nairobi,Kenyan Used,"Original parts, No faults",BMW,Blue,320i,2006,,NULL,NULL,NULL,Automatic,,Yes,850000
+Honda Fit 2014 Blue,Cars,Ridgeways,Nairobi,Foreign Used,"First registration, No faults, Original parts",Honda,Blue,Fit,2014,50000.0,NULL,NULL,NULL,Automatic,,Yes,1050000
+Toyota bB 2014 Brown,Cars,Mombasa CBD,Mombasa,Foreign Used,"Original parts, Unpainted, No faults",Toyota,Brown,bB,2014,45000.0,NULL,NULL,NULL,Automatic,,No,800000
+Toyota ISIS 2014 Silver,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,Silver,ISIS,2014,85663.0,NULL,NULL,NULL,Automatic,,No,1100000
+Toyota Probox 2012 White,Cars,Mombasa CBD,Mombasa,Kenyan Used,Unpainted,Toyota,White,Probox,2012,130000.0,NULL,NULL,NULL,Automatic,,Yes,670000
+Isuzu NPR 2006,Trucks & Trailers,Donholm,Nairobi,Used,Used,Isuzu,White,F SERIES,2006,,NULL,Diesel,NULL,Manual,,NULL,1650000
+Isuzu NQR Canter,Trucks & Trailers,Kisauni,Mombasa,Used,Used,Isuzu,NULL,NULL,2007,,NULL,NULL,NULL,NULL,,NULL,1050000
+Nissan Note 2014 White,Cars,Nairobi Central,Nairobi,Foreign Used,First registration,Nissan,White,Note,2014,,NULL,NULL,NULL,Automatic,,Yes,875000
+Mazda Demio 2014 White,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Mazda,White,Demio,2014,56380.0,NULL,NULL,NULL,Automatic,,Yes,910000
+New Subaru Outback 2013 Silver,Cars,Mvita,Mombasa,Brand New,Subaru,Subaru,Silver,Outback,2013,79000.0,NULL,NULL,NULL,Automatic,,No,2100000
+Mitsubishi Fuso 2014 Blue,Trucks & Trailers,Mombasa CBD,Mombasa,Used,Used,Mitsubishi,NULL,Canter,2014,,NULL,NULL,NULL,NULL,,NULL,2300000
+Suzuki Escudo 2009 Black,Cars,Nairobi Central,Nairobi,Kenyan Used,Original parts,Suzuki,Black,Escudo,2009,121000.0,NULL,NULL,NULL,Automatic,,Yes,1450000
+Mitsubishi RVR 2014 White,Cars,Kilimani,Nairobi,Foreign Used,"First owner, Original parts, Unpainted",Mitsubishi,White,RVR,2014,35000.0,NULL,NULL,NULL,Automatic,,No,2190000
+Toyota Wish 2011 Purple,Cars,Nairobi Central,Nairobi,Kenyan Used,No faults,Toyota,Purple,Wish,2011,132000.0,NULL,NULL,NULL,Automatic,,NULL,985000
+"Toyota Dyna,Manual,Diesel",Trucks & Trailers,Mombasa CBD,Mombasa,Used,Used,Toyota,NULL,Dyna,2014,,NULL,NULL,NULL,NULL,,NULL,2800000
+Mitsubishi RVR 2010 White,Cars,Kilimani,Nairobi,Kenyan Used,"Unpainted, First owner, Original parts",Mitsubishi,White,RVR,2010,160000.0,NULL,NULL,NULL,Automatic,,Yes,1390000
+Subaru Forester 2001 Silver,Cars,Ruai,Nairobi,Kenyan Used,No faults,Subaru,Silver,Forester,2001,263939.0,NULL,NULL,NULL,Automatic,,Yes,500000
+Isuzu FVR Lorry,Trucks & Trailers,Nakuru Town West,Nakuru,Used,Used,Isuzu,NULL,F SERIES,1994,,NULL,Diesel,NULL,NULL,,NULL,1500000
+BMW 320i 2010 Silver,Cars,Lavington,Nairobi,Kenyan Used,BMW,BMW,Silver,320i,2010,163000.0,NULL,Petrol,NULL,Automatic,,NULL,870000
+Honda Stepwgn 2014 Black,Cars,Kilimani,Nairobi,Foreign Used,First registration,Honda,Black,Stepwgn,2014,107541.0,NULL,NULL,NULL,Automatic,,Yes,1580000
+Mitsubishi FH,Trucks & Trailers,Nairobi Central,Nairobi,Used,Used,Mitsubishi,NULL,Canter,2015,,NULL,NULL,NULL,NULL,,NULL,3400000
+Mazda Bongo,Buses & Microbuses,Ridgeways,Nairobi,Foreign Used,"Unpainted, No faults",Mazda,White,Bongo,2014,127800.0,NULL,NULL,NULL,Automatic,,NULL,11200000
+Toyota Noah 2014 2.0 FWD (7 Seater) Silver,Cars,Nyali,Mombasa,Foreign Used,No faults,Toyota,Silver,Noah,2014,,Minivan,Petrol,Front Wheel,Automatic,7.0,NULL,2150000
+Toyota Ractis 2014,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,Other,Ractis,2014,,NULL,NULL,NULL,Automatic,,No,1100000
+Mitsibishi Fh215 KCC,Trucks & Trailers,Ruiru,Kiambu,Used,Used,Mitsubishi,White,FA/FI,2015,,NULL,Diesel,NULL,Manual,,NULL,2850000
+Toyota Celica 1997 White,Cars,Lavington,Nairobi,Kenyan Used,Toyota,Toyota,White,Celica,1997,184000.0,Coupe,Petrol,NULL,Automatic,,NULL,650000
+5-6 Tonnes Freezer Body Elf Isuzu,Trucks & Trailers,Mombasa CBD,Mombasa,Brand New,Brand New,Isuzu,White,N Series,2015,,NULL,Diesel,NULL,Manual,,NULL,2800000
+Toyota Noah 2014 White,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,White,Noah,2014,74500.0,NULL,NULL,NULL,Automatic,,NULL,2000000
+Nissan Serena 2014 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,"Original parts, No faults, Unpainted",Nissan,Black,Serena,2014,59000.0,NULL,NULL,NULL,Automatic,,No,1280000
+Toyota Land Cruiser 2010 4.6 V8 ZX Black,Cars,Runda,Nairobi,Foreign Used,No faults,Toyota,Black,Land Cruiser,2010,,SUV,Petrol,4x4,Automatic,8.0,No,8799999
+Subaru Outback 2015 Gray,Cars,Tudor,Mombasa,Foreign Used,First registration,Subaru,Gray,Outback,2015,21452.0,NULL,NULL,NULL,Automatic,,Yes,3500000
+Nissan Caravan,Buses & Microbuses,Nairobi Central,Nairobi,Kenyan Used,Nissan,Nissan,NULL,Caravan (Urvan),2009,,NULL,NULL,NULL,NULL,,NULL,459000
+Nissan Serena 2012 Purple,Cars,Nairobi Central,Nairobi,Kenyan Used,"Original parts, Unpainted, No faults",Nissan,Purple,Serena,2012,99321.0,NULL,NULL,NULL,CVT,,Yes,920000
+Isuzu Elf Truck,Trucks & Trailers,Nairobi Central,Nairobi,Used,Used,Isuzu,NULL,NULL,2012,,NULL,NULL,NULL,NULL,,NULL,2950000
+Tipper In Exellent Condition.,Trucks & Trailers,Mombasa CBD,Mombasa,NULL,Isuzu,Isuzu,NULL,NULL,2012,,NULL,NULL,NULL,NULL,,NULL,1850000
+Volkswagen Tiguan 2014 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Volkswagen,Black,Tiguan,2014,63941.0,SUV,Petrol,Front Wheel,Automatic,,No,2900000
+Mazda 110 2014 White,Buses & Microbuses,Tudor,Mombasa,Foreign Used,Mazda,Mazda,NULL,E2000,2014,57678.0,NULL,NULL,NULL,NULL,,NULL,630000
+Mitsubishi Pajero 2014 White,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,Mitsubishi,White,Pajero,2014,89000.0,NULL,NULL,NULL,Automatic,,Yes,3800000
+Subaru Outback 2015 Beige,Cars,Mvita,Mombasa,Foreign Used,No faults,Subaru,Beige,Outback,2015,86322.0,NULL,NULL,NULL,Automatic,,Yes,3500000
+Mitsubishi Pajero 2014 V80 3.2 DI-D White,Cars,Mombasa CBD,Mombasa,Foreign Used,Original parts,Mitsubishi,White,Pajero,2014,85636.0,SUV,Diesel,All Wheel,Automatic,5.0,Yes,4200000
+Toyota Land Cruiser 2010 White,Cars,Karen,Nairobi,Kenyan Used,"Unpainted, Original parts",Toyota,White,Land Cruiser,2010,156000.0,NULL,NULL,NULL,Manual,,Yes,4500000
+New Toyota Harrier 2015 White,Cars,Mvita,Mombasa,Brand New,"No faults, Original parts",Toyota,White,Harrier,2015,29840.0,NULL,NULL,NULL,Automatic,,No,3580000
+Toyota Sienta 2015 Black,Cars,Nairobi Central,Nairobi,Foreign Used,No faults,Toyota,Black,Sienta,2015,,NULL,NULL,NULL,Automatic,,Yes,1450000
+Toyota Allion 2015 White,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,White,Allion,2015,65000.0,NULL,NULL,NULL,Automatic,,No,1750000
+Toyota Hiace 2014 White,Buses & Microbuses,Mvita,Mombasa,Foreign Used,Toyota,Toyota,NULL,HiAce,2014,121595.0,NULL,NULL,NULL,NULL,,NULL,3300000
+"Mazda Bongo Van, 2014,New Import",Buses & Microbuses,Nyali,Mombasa,Foreign Used,Mazda,Mazda,NULL,Bongo,2014,122000.0,NULL,NULL,NULL,NULL,,NULL,990000
+Isuzu Elf Truck,Trucks & Trailers,Ganjoni,Mombasa,Used,Used,Isuzu,NULL,NULL,2015,,NULL,NULL,NULL,NULL,,NULL,2250000
+Roller Coaster,Buses & Microbuses,Nairobi Central,Nairobi,Foreign Used,Toyota,Toyota,NULL,Coaster,2012,88000.0,NULL,NULL,NULL,NULL,,NULL,4900000
+Volkswagen Passat 2009 White,Cars,Woodley/Kenyatta Golf Course,Nairobi,Kenyan Used,Original parts,Volkswagen,White,Passat,2009,,NULL,NULL,NULL,Automatic,,NULL,1350000
+Isuzu Forward 7 Tonne Freezer,Trucks & Trailers,Tudor,Mombasa,Used,Used,Isuzu,NULL,F SERIES,2015,,NULL,Diesel,NULL,NULL,,NULL,4300000
+Toyota Land Cruiser Prado 2014 Blue,Cars,Nairobi Central,Nairobi,Foreign Used,"First owner, Unpainted, Original parts",Toyota,Blue,Land Cruiser Prado,2014,42000.0,NULL,NULL,NULL,Automatic,,No,6150000
+Isuzu Truck,Trucks & Trailers,Makadara,Nairobi,Used,Used,Isuzu,NULL,N Series,1990,,NULL,Diesel,NULL,NULL,,NULL,520000
+Mercedes-Benz B-Class 2009 White,Cars,Lavington,Nairobi,Kenyan Used,Mercedes-Benz,Mercedes-Benz,White,B-Class,2009,154155.0,NULL,Petrol,NULL,Automatic,,NULL,699999
+Nissan Teana 2013 White,Cars,Mvita,Mombasa,Foreign Used,No faults,Nissan,White,Teana,2013,89423.0,NULL,NULL,NULL,Automatic,,Yes,1500000
+Nissan Note 2014 Red,Cars,Ridgeways,Nairobi,Kenyan Used,Nissan,Nissan,Red,Note,2014,37177.0,NULL,Petrol,NULL,Automatic,,NULL,800000
+Honda CR-V 2014 Silver,Cars,Lavington,Nairobi,Foreign Used,Honda,Honda,Silver,CR-V,2014,66000.0,SUV,Petrol,All Wheel,Automatic,5.0,NULL,2300000
+New Mazda CX-5 2014 Grand Touring AWD Blue,Cars,Nairobi Central,Nairobi,Brand New,No faults,Mazda,Blue,CX-5,2014,115000.0,SUV,Petrol,All Wheel,Automatic,5.0,No,2100000
+Mitsubishi RVR 2014 White,Cars,Kileleshwa,Nairobi,Foreign Used,No faults,Mitsubishi,White,RVR,2014,24000.0,NULL,NULL,NULL,Automatic,,Yes,2050000
+Toyota Spade 2014 1.5 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,Black,Spade,2014,72900.0,Hatchback,Petrol,Front Wheel,Automatic,5.0,No,770000
+Volkswagen Polo 2010 1.2 TSI Gray,Cars,Nairobi Central,Nairobi,Kenyan Used,First owner,Volkswagen,Gray,Polo,2010,174000.0,Hatchback,Petrol,Front Wheel,Automatic,5.0,Yes,750000
+New Toyota Porte 2013 Gray,Cars,Mvita,Mombasa,Brand New,"Original parts, No faults",Toyota,Gray,Porte,2013,56691.0,NULL,NULL,NULL,Automatic,,No,730000
+Subaru Forester 2014 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Subaru,Black,Forester,2014,112000.0,NULL,NULL,NULL,Automatic,,Yes,2700000
+Toyota Raum 2007 Green,Cars,Kiambu / Kiambu ,Kiambu,Kenyan Used,First owner,Toyota,Green,Raum,2007,101000.0,NULL,NULL,NULL,Automatic,,Yes,640000
+Toyota HiAce 2012 White,Cars,Nairobi,,Foreign Used,No faults,Toyota,White,HiAce,2012,,NULL,NULL,NULL,Automatic,,NULL,2400000
+Hino Dutro Long Chassis Front Leaf Springs,Trucks & Trailers,Mombasa CBD,Mombasa,Brand New,Brand New,Other,NULL,Other,2014,,NULL,Diesel,NULL,NULL,,NULL,2500000
+Subaru Forester 2015 Off white,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Subaru,Off white,Forester,2015,65000.0,NULL,Petrol,NULL,Automatic,,No,2600000
+Subaru Forester 2015 White,Cars,Mvita,Mombasa,Foreign Used,No faults,Subaru,White,Forester,2015,89000.0,NULL,NULL,NULL,Automatic,,Yes,2700000
+Mazda Bongo,Buses & Microbuses,Kikuyu,Kiambu,Kenyan Used,Mazda,Mazda,NULL,Bongo,2006,150000.0,NULL,NULL,NULL,NULL,,NULL,410000
+Mercedes-Benz Actros,Trucks & Trailers,Thome,Nairobi,Used,Used,Mercedes-Benz,NULL,NULL,2013,,NULL,NULL,NULL,NULL,,NULL,7500000
+Mitsubishi Galant 2014 Silver,Cars,Kilimani,Nairobi,Foreign Used,No faults,Mitsubishi,Silver,Galant,2014,,NULL,NULL,NULL,Automatic,,Yes,1380000
+Subaru Forester 2015 Pearl,Cars,Mombasa CBD,Mombasa,Foreign Used,"No faults, Unpainted, Original parts",Subaru,Pearl,Forester,2015,42000.0,SUV,Petrol,All Wheel,Automatic,,No,2850000
+Mazda Demio 2014 White,Cars,Nyali,Mombasa,Foreign Used,"Original parts, Unpainted, No faults",Mazda,White,Demio,2014,,NULL,NULL,NULL,Automatic,,Yes,790000
+Selling Matatu In Mombasa At A Very Affordable Prices,Buses & Microbuses,Tudor,Mombasa,Foreign Used,Toyota,Toyota,NULL,HiAce,2015,89321.0,NULL,NULL,NULL,NULL,,NULL,2450000
+New Subaru Forester 2013 Black,Cars,Mvita,Mombasa,Brand New,No faults,Subaru,Black,Forester,2013,71900.0,NULL,NULL,NULL,Automatic,,No,2530000
+Subaru Outback 2014 black,Cars,Nairobi,,NULL,Outback,Subaru,Black,Outback,NULL,180097.0,NULL,NULL,NULL,Automatic,,NULL,1649999
+Mazda Bongo 2013,Trucks & Trailers,Ngong,Kajiado,NULL,Mazda,Mazda,NULL,NULL,2013,,NULL,NULL,NULL,NULL,,NULL,1650000
+Toyota Hiace 2013,Buses & Microbuses,Ngara,Nairobi,Foreign Used,Toyota,Toyota,NULL,HiAce,2013,160000.0,NULL,NULL,NULL,NULL,,NULL,2250000
+BMW X1 2014 White,Cars,Mvita,Mombasa,Foreign Used,No faults,BMW,White,X1,2014,73586.0,NULL,NULL,NULL,Automatic,,No,2200000
+Subaru Forester 2014 Green,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Subaru,Green,Forester,2014,89021.0,SUV,Petrol,All Wheel,Automatic,,No,2700000
+Mazda Demio 2012 Brown,Cars,Karen,Nairobi,Kenyan Used,"Original parts, Unpainted",Mazda,Brown,Demio,2012,,NULL,NULL,NULL,Automatic,,Yes,510000
+Mercedes-Benz C180 2014 Black,Cars,Kilimani,Nairobi,Foreign Used,No faults,Mercedes-Benz,Black,C180,2014,82000.0,NULL,NULL,NULL,Automatic,,Yes,2500000
+Isuzu Direct Injection HTR 7 Tons,Trucks & Trailers,Parklands/Highridge,Nairobi,Used,Used,Isuzu,NULL,NULL,1999,,NULL,NULL,NULL,NULL,,NULL,900000
+Mazda Demio 2015 Gray,Cars,Ridgeways,Nairobi,Kenyan Used,Mazda,Mazda,Gray,Demio,2015,96000.0,NULL,Petrol,NULL,Automatic,,NULL,950000
+Mercedes-Benz C200 2008 White,Cars,Langata,Nairobi,Kenyan Used,Mercedes-Benz,Mercedes-Benz,White,C200,2008,132489.0,NULL,Petrol,NULL,Automatic,,NULL,1400000
+Toyota Coaster 2014 White,Buses & Microbuses,Mombasa CBD,Mombasa,Foreign Used,Toyota,Toyota,NULL,Coaster,2014,189000.0,NULL,NULL,NULL,NULL,,NULL,4300000
+Nissan X-Trail 2014 Black,Cars,Nairobi Central,Nairobi,Foreign Used,"No faults, Original parts",Nissan,Black,X-Trail,2014,,NULL,NULL,NULL,Automatic,,NULL,2450000
+Dyna DIESEL Manual,Trucks & Trailers,Tudor,Mombasa,Brand New,Brand New,Toyota,Red,Dyna,2015,,NULL,Diesel,NULL,Manual,,NULL,2999999
+Nissan Juke 2013 Black,Cars,Kiambaa,Kiambu,Kenyan Used,"Unpainted, Original parts, No faults",Nissan,Black,Juke,2013,77000.0,NULL,NULL,NULL,Automatic,,Yes,1000000
+Toyota Hilux 2013 Gray,Cars,Mvita,Mombasa,Brand New,Toyota,Toyota,Gray,Hilux,2013,7698.0,NULL,NULL,NULL,Manual,,Yes,3850000
+Toyota RAV4 2015 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,"First registration, First owner, No faults",Toyota,Black,RAV4,2015,36212.0,SUV,Petrol,All Wheel,Automatic,5.0,Yes,3250000
+Toyota Coaster,Buses & Microbuses,Mombasa CBD,Mombasa,Kenyan Used,Toyota,Toyota,NULL,Coaster,2013,125000.0,NULL,NULL,NULL,NULL,,NULL,3200000
+Coaster Toyota Hiace 9l,Buses & Microbuses,Majengo,Mvita,Foreign Used,Toyota,Toyota,NULL,Coaster,2014,108556.0,NULL,NULL,NULL,NULL,,NULL,3400000
+Mercedes-Benz C-Class 2011 C 200 (C204) White,Cars,Lavington,Nairobi,Kenyan Used,Mercedes-Benz,Mercedes-Benz,White,C-Class,2011,76000.0,Coupe,Petrol,Rear Wheel,Automatic,5.0,NULL,1650000
+Volkswagen Touareg 2015 TDI Executive AWD 4MOTION Black,Cars,Tudor,Mombasa,Foreign Used,No faults,Volkswagen,Black,Touareg,2015,111285.0,SUV,Diesel,All Wheel,Automatic,5.0,NULL,5500000
+Selling Buses In Mombasa Town,Buses & Microbuses,Tudor,Mombasa,Foreign Used,Mitsubishi,Mitsubishi,NULL,Fuso Rosa,2013,101903.0,NULL,NULL,NULL,NULL,,NULL,5200000
+Tata Signa LPK-1618 Tipper 10 Ton,Trucks & Trailers,Nairobi Central,Nairobi,Brand New,Brand New,Tata,NULL,M&HCV Rigid Truck,2021,,NULL,Diesel,NULL,NULL,,NULL,6000000
+Mazda Demio 2014 White,Cars,Mombasa CBD,Mombasa,Foreign Used,"First registration, Original parts, Unpainted",Mazda,White,Demio,2014,71235.0,NULL,NULL,NULL,Automatic,,Yes,1000000
+Toyota Hilux 2016 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,Toyota,Black,Hilux,2016,36000.0,NULL,NULL,NULL,Automatic,,No,9000000
+Subaru Forester 2014 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,"No faults, Original parts, Unpainted",Subaru,Black,Forester,2014,38000.0,SUV,Petrol,All Wheel,Automatic,,No,2400000
+Nissan X-Trail 2015 Gray,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,Nissan,Gray,X-Trail,2015,1066903.0,NULL,NULL,NULL,Automatic,,Yes,2000000
+Mazda Atenza 2014 Blue,Cars,Mombasa CBD,Mombasa,Foreign Used,"First owner, First registration, No faults",Mazda,Blue,Atenza,2014,78000.0,NULL,NULL,NULL,Automatic,,Yes,1950000
+Nissan Serena 2012 Black,Cars,Tudor,Mombasa,Foreign Used,First registration,Nissan,Black,Serena,2012,103123.0,NULL,NULL,NULL,Automatic,,Yes,870000
+Nissan Note 2014 Red,Cars,Imara Daima,Nairobi,Kenyan Used,First registration,Nissan,Red,Note,2014,87000.0,NULL,NULL,NULL,Automatic,,NULL,790000
+Volkswagen Passat 2014 Blue,Cars,Langata,Nairobi,Foreign Used,First registration,Volkswagen,Blue,Passat,2014,64000.0,NULL,NULL,NULL,Automatic,,Yes,1390000
+Volkswagen Golf 2014 White,Cars,Karen,Nairobi,Foreign Used,Original parts,Volkswagen,White,Golf,2014,,NULL,NULL,NULL,Automatic,,Yes,1480000
+Toyota GT86 2015 Blue,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,Blue,GT86,2015,65123.0,NULL,NULL,NULL,Automatic,,No,1800000
+Honda Vezel 2014 Green,Cars,Nairobi,,Foreign Used,No faults,Honda,Green,Vezel,2014,,NULL,NULL,NULL,Automatic,,NULL,2300000
+Honda CR-V 2012 Blue,Cars,Karen,Nairobi,Foreign Used,First owner,Honda,Blue,CR-V,2012,52000.0,NULL,NULL,NULL,Automatic,,Yes,2600000
+Nissan Caravan 2014 White,Cars,Nairobi,,Foreign Used,No faults,Nissan,White,Caravan,2014,,NULL,NULL,NULL,Automatic,,NULL,2200000
+Isuzu NPR Clean Unit,Trucks & Trailers,Nairobi Central,Nairobi,Used,Used,Isuzu,Other,N Series,2016,,NULL,Diesel,NULL,Manual,,NULL,2850000
+Mitsubishi Fh 2007,Trucks & Trailers,Donholm,Nairobi,Used,Used,Mitsubishi,White,FA/FI,2007,,NULL,Diesel,NULL,Manual,,NULL,2300000
+Mercedes-Benz B-Class 2014 Silver,Cars,Mvita,Mombasa,Foreign Used,"First owner, No faults",Mercedes-Benz,Silver,B-Class,2014,90000.0,NULL,NULL,NULL,Automatic,,NULL,1650000
+Toyota ISIS 2014 1.8 L 2WD Blue,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,Blue,ISIS,2014,65800.0,Minivan,Petrol,Front Wheel,Automatic,7.0,NULL,1350000
+BMW 320i 2011 Silver,Cars,Nairobi Central,Nairobi,Kenyan Used,Original parts,BMW,Silver,320i,2011,168000.0,NULL,NULL,NULL,Automatic,,Yes,985000
+BMW X5 2015 White,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,BMW,White,X5,2015,68000.0,SUV,Petrol,All Wheel,Automatic,,No,6300000
+Volvo V40 2014 White,Cars,Ridgeways,Nairobi,Foreign Used,No faults,Volvo,White,V40,2014,67000.0,NULL,NULL,NULL,Automatic,,Yes,1550000
+Toyota Pixis Epoch 2014 Black,Cars,Lavington,Nairobi,Kenyan Used,Toyota,Toyota,Black,Pixis Epoch,2014,107073.0,NULL,Petrol,NULL,Automatic,,NULL,650000
+Nissan Caravan,Buses & Microbuses,Embakasi,Nairobi,Kenyan Used,Nissan,Nissan,NULL,Caravan (Urvan),1997,360854.0,NULL,NULL,NULL,NULL,,NULL,450000
+Toyota Hiace Auto Diesel,Buses & Microbuses,Mombasa CBD,Mombasa,Foreign Used,Toyota,Toyota,NULL,HiAce,2014,87500.0,NULL,NULL,NULL,Automatic,,NULL,2450000
+Mazda Familia 1998 Black,Cars,Ridgeways,Nairobi,Kenyan Used,Mazda,Mazda,Black,Familia,1998,202745.0,NULL,Petrol,NULL,Manual,,NULL,300000
+Mercedes-Benz E250 2014 Black,Cars,Nairobi Central,Nairobi,Foreign Used,No faults,Mercedes-Benz,Black,E250,2014,49000.0,NULL,NULL,NULL,Automatic,,No,3900000
+Toyota Corolla 2014 Brown,Cars,Mombasa CBD,Mombasa,Foreign Used,"No faults, First registration, Original parts",Toyota,Brown,Corolla,2014,28351.0,NULL,NULL,NULL,Automatic,,Yes,1270000
+Toyota Land Cruiser 2014 4.6 V8 ZX Black,Cars,Karen,Nairobi,Foreign Used,"Unpainted, Original parts, No faults",Toyota,Black,Land Cruiser,2014,30000.0,SUV,Petrol,4x4,Automatic,8.0,No,8199999
+Honda Fit 2014 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Honda,Black,Fit,2014,,NULL,NULL,NULL,Automatic,,No,930000
+Subaru Outback 2015 Blue,Cars,Kilimani,Nairobi,Foreign Used,"Unpainted, Original parts, No faults",Subaru,Blue,Outback,2015,73000.0,Station Wagon,Petrol,All Wheel,Automatic,,Yes,3550000
+New Toyota Allion 2015 Black,Cars,Mombasa CBD,Mombasa,Brand New,No faults,Toyota,Black,Allion,2015,51871.0,NULL,NULL,NULL,Automatic,,NULL,1650000
+Mazda Verisa 2014 Red,Cars,Nairobi Central,Nairobi,Foreign Used,No faults,Mazda,Red,Verisa,2014,53261.0,NULL,NULL,NULL,Automatic,,Yes,1060000
+New Toyota Fielder 2014 Purple,Cars,Mvita,Mombasa,Brand New,No faults,Toyota,Purple,Fielder,2014,71000.0,NULL,NULL,NULL,Automatic,,Yes,1200000
+Nissan Note 2014 Silver,Cars,Lavington,Nairobi,Kenyan Used,Nissan,Nissan,Silver,Note,2014,143394.0,NULL,Petrol,NULL,Automatic,,NULL,840000
+Subaru Outback 2013 2.5i Limited White,Cars,Kilimani,Nairobi,Foreign Used,"First registration, No faults",Subaru,White,Outback,2013,,Station Wagon,Hybrid,All Wheel,Automatic,5.0,Yes,2200000
+Honda Vezel 2014 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,"First owner, First registration, No faults",Honda,Black,Vezel,2014,,NULL,NULL,NULL,Automatic,,Yes,2300000
+Isuzu Lorry LPR,Trucks & Trailers,Kilimani,Nairobi,Used,Used,Isuzu,Blue,F SERIES,2010,,NULL,Diesel,NULL,Manual,,NULL,2250000
+Canter Fuso Back and Front Leaf Springs,Trucks & Trailers,Mombasa CBD,Mombasa,Brand New,Brand New,Mitsubishi,White,Canter,2014,,NULL,Diesel,NULL,Manual,,NULL,2700000
+Mitsubishi Outlander 2014 Blue,Cars,Nairobi,,Foreign Used,No faults,Mitsubishi,Blue,Outlander,2014,,NULL,NULL,NULL,Automatic,,NULL,2700000
+Single Diff Volve FL10,Trucks & Trailers,Embakasi,Nairobi,NULL,NULL,NULL,NULL,NULL,NULL,,NULL,NULL,NULL,NULL,,NULL,400000
+Toyota Hiace 2014 White,Buses & Microbuses,Kilimani,Nairobi,Foreign Used,Toyota,Toyota,NULL,HiAce,2014,100000.0,NULL,NULL,NULL,NULL,,NULL,2100000
+Nissan Caravan Hummer Long Chassis,Buses & Microbuses,Mvita,Mombasa,Kenyan Used,Nissan,Nissan,NULL,Caravan (Urvan),2012,98999.0,NULL,NULL,NULL,Automatic,,NULL,1400000
+Suzuki Super Carry 2014 White,Trucks & Trailers,Lavington,Nairobi,Used,Used,Suzuki,NULL,Carry,2014,,NULL,Petrol,NULL,NULL,,NULL,750000
+New Hyundai Palisade 2021 White,Cars,Mombasa Road,Nairobi,Brand New,No faults,Hyundai,White,Palisade,2021,200.0,NULL,NULL,NULL,Automatic,,Yes,9500000
+Toyota Hiace 2012 White,Buses & Microbuses,Mombasa CBD,Mombasa,Kenyan Used,Unpainted,Toyota,White,HiAce,2013,123000.0,NULL,NULL,NULL,Automatic,,NULL,1800000
+Daihatsu HIJET 2014 Silver,Trucks & Trailers,Mombasa CBD,Mombasa,Used,Used,Daihatsu,Silver,Hijet,2014,,NULL,Petrol,NULL,Manual,,NULL,720000
+Toyota Hiace 2015 White,Buses & Microbuses,Ziwa la Ngombe,Nyali,Brand New,Toyota,Toyota,NULL,HiAce,2015,85472.0,NULL,NULL,NULL,NULL,,NULL,3800000
+Toyota Hiace 2011 Silver,Buses & Microbuses,Nairobi Central,Nairobi,Foreign Used,Toyota,Toyota,NULL,HiAce,2011,126000.0,NULL,NULL,NULL,NULL,,NULL,1850000
+Suzuki Grand Vitara 2015 Gray,Cars,Nairobi Central,Nairobi,Foreign Used,First owner,Suzuki,Gray,Grand Vitara,2015,,NULL,NULL,NULL,Automatic,,NULL,2299000
+Toyota Axio 2015 Purple,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Toyota,Purple,Axio,2015,63280.0,NULL,NULL,NULL,Automatic,,Yes,1350000
+Toyota Ractis 2015 1.5 AWD Brown,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,Toyota,Brown,Ractis,2015,58636.0,Hatchback,Petrol,All Wheel,Automatic,5.0,Yes,1190000
+Nissan Note 2015 Pink,Cars,Mombasa CBD,Mombasa,Foreign Used,First registration,Nissan,Pink,Note,2015,,NULL,NULL,NULL,Automatic,,NULL,950000
+Mercedes-Benz C200 2015 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Mercedes-Benz,Black,C200,2015,56800.0,NULL,NULL,NULL,Automatic,,Yes,3850000
+Nissan Bluebird 2014 Silver,Cars,Kilimani,Nairobi,Foreign Used,"First owner, First registration, No faults",Nissan,Silver,Bluebird,2014,101642.0,NULL,NULL,NULL,Automatic,,Yes,1250000
+Lexus NX 2014 Red,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Lexus,Red,NX,2014,,NULL,NULL,NULL,Automatic,,No,5400000
+Suzuki Alto 2015 White,Cars,Lavington,Nairobi,Kenyan Used,Suzuki,Suzuki,White,Alto,2015,131421.0,NULL,Petrol,NULL,Automatic,,NULL,570000
+TATA 407 Lorry,Trucks & Trailers,Nakuru Town West,Nakuru,Used,Used,Tata,NULL,407,1999,,NULL,Diesel,NULL,NULL,,NULL,690000
+Mitsubishi Fuso,Trucks & Trailers,Runda,Nairobi,Brand New,Brand New,Mitsubishi,NULL,NULL,2014,,NULL,NULL,NULL,NULL,,NULL,2100000
+Volkswagen Passat 2014 Gold,Cars,Mombasa CBD,Mombasa,Foreign Used,"No faults, Original parts",Volkswagen,Gold,Passat,2014,68711.0,NULL,NULL,NULL,Automatic,,NULL,1750000
+Toyota Wish 2014 Black,Cars,Mvita,Mombasa,Foreign Used,No faults,Toyota,Black,Wish,2014,41000.0,NULL,NULL,NULL,Automatic,,Yes,1300000
+BMW 7 Series 2013 White,Cars,Westlands,Nairobi,Foreign Used,No faults,BMW,White,7 Series,2013,40000.0,NULL,NULL,NULL,Automatic,,Yes,3800000
+"Toyota Dyna, 2014, Manual, Very Low Mileage 151k (Genuine)",Trucks & Trailers,Mombasa Road,Nairobi,Brand New,Brand New,Toyota,White,Dyna,2014,,NULL,Petrol,NULL,Manual,,NULL,1799000
+Hiace 7l Box,Buses & Microbuses,Nairobi Central,Nairobi,Kenyan Used,No faults,Toyota,NULL,HiAce,2012,115000.0,NULL,NULL,NULL,Automatic,,NULL,1400000
+Nissan X-Trail 2014 Blue,Cars,Kilimani,Nairobi,Foreign Used,No faults,Nissan,Blue,X-Trail,2014,48000.0,NULL,NULL,NULL,Automatic,,Yes,2480000
+Volkswagen Passat 2014 Gray,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Volkswagen,Gray,Passat,2014,,NULL,NULL,NULL,Automatic,,No,1950000
+Audi Q3 2014 Gray,Cars,Mombasa CBD,Mombasa,Foreign Used,No faults,Audi,Gray,Q3,2014,47000.0,NULL,NULL,NULL,Automatic,,No,3200000
+Mitsubishi RVR 2015 Black,Cars,Mombasa CBD,Mombasa,Brand New,No faults,Mitsubishi,Black,RVR,2015,45555.0,NULL,NULL,NULL,Automatic,,NULL,2150000
+Nissan Teana 2015 Black,Cars,Nairobi Central,Nairobi,Foreign Used,First registration,Nissan,Black,Teana,2015,,NULL,NULL,NULL,Automatic,,Yes,1420000
+Lexus LS 2011 460 AWD Black,Cars,Lavington,Nairobi,Kenyan Used,Lexus,Lexus,Black,LS,2011,88201.0,Sedan,Petrol,All Wheel,Automatic,5.0,NULL,3100000
+Toyota Ractis 2015 Black,Cars,Mombasa CBD,Mombasa,Foreign Used,Original parts,Toyota,Black,Ractis,2015,58964.0,NULL,NULL,NULL,Automatic,,Yes,1049000
+Toyota Wish 2011 Silver,Cars,Ridgeways,Nairobi,Kenyan Used,"First owner, Unpainted, Original parts",Toyota,Silver,Wish,2011,107809.0,NULL,NULL,NULL,Automatic,,Yes,1030000
+Mitsubishi L200 2014 Gold,Cars,Roysambu,Nairobi,Kenyan Used,"First owner, Original parts, First registration",Mitsubishi,Gold,L200,2014,,NULL,NULL,NULL,Manual,,Yes,1200000
+Subaru Outback 2014 White,Cars,Mvita,Mombasa,Foreign Used,No faults,Subaru,White,Outback,2014,63142.0,NULL,NULL,NULL,Automatic,,NULL,2500000
+Toyota Allion 2008 Silver,Cars,Ganjoni,Mombasa,Kenyan Used,No faults,Toyota,Silver,Allion,2008,176549.0,NULL,NULL,NULL,Automatic,,Yes,860000
+Mitsubishi Hd,Trucks & Trailers,Kisauni,Mombasa,Used,Used,Mitsubishi,NULL,NULL,2006,,NULL,NULL,NULL,NULL,,NULL,1300000
+Mitsubishi Fuso Refrigerated,Trucks & Trailers,Kisauni,Mombasa,Used,Used,Mitsubishi,NULL,Canter,2014,,NULL,Diesel,NULL,NULL,,NULL,2200000
+Toyota Ractis 2009 Black,Cars,Ridgeways,Nairobi,Kenyan Used,"First owner, No faults, Original parts",Toyota,Black,Ractis,2009,120120.0,NULL,NULL,NULL,Automatic,,Yes,550000
+Subaru Forester 2015 Matt Black,Cars,Mombasa CBD,Mombasa,Foreign Used,"Unpainted, Original parts, First registration",Subaru,Matt Black,Forester,2015,86910.0,NULL,NULL,NULL,Automatic,,Yes,2450000
