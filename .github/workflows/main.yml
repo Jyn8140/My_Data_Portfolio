@@ -1,9 +1,12 @@
+
 name: Portfolio Automation
-on: [push] # Runs every time you upload code
+on: [push]
 
 jobs:
-  audit:
+  audit_job:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # Allows the robot to save the report back to your repo
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -11,22 +14,22 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.9'
+          python-version: '3.10'
 
       - name: Install Dependencies
-        run: pip install pandas google-generativeai
+        run: pip install google-genai pandas
 
       - name: Run Gemini Audit
         env:
           GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python auto_audit.py
 
-      - name: Commit Report
+      - name: Save Report
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add DATA_AUDIT_REPORT.md
-          git commit -m "Auto-generated data audit" || echo "No changes"
+          git commit -m "Auto-generated data audit" || echo "No changes to commit"
           git push
 
 
