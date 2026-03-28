@@ -19,7 +19,7 @@ else:
         file_content = f.read()[:8000] # Grabs the start of your analysis
 
 # The Data Scientist Prompt
-prompt = f"Act as a Senior Data Scientist. Audit this file ({file_name}) for logic errors, missing data handling, and visualization improvements:\n\n{file_content}"
+prompt = f"Act as a Senior Data Scientist. I have added Seaborn visualizations to my Vehicle Analysis. Audit this file ({file_name}) for visual clarity of Seaborn plots and statistical insights from the price distribution."
 
 try:
     response = client.models.generate_content(
