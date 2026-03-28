@@ -1,27 +1,31 @@
 import os
 import glob
-import google.generativeai as genai
+from google import genai
 
-# 1. Setup API
-api_key = os.getenv("GOOGLE_API_KEY")
-genai.configure(api_key=api_key)
-model = genai.GenerativeModel('gemini-1.5-flash')
+# 1. Setup Gemini 3 Flash
+client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
 
-# 2. Find files to audit (CSV or SQL)
-files_to_audit = glob.glob("*.csv") + glob.glob("*.sql")
+# 2. Find any Data Science files (CSV, SQL, or Notebooks)
+files = glob.glob("*.csv") + glob.glob("*.sql") + glob.glob("*.ipynb")
 
-if not files_to_audit:
-    summary_text = "No data or SQL files found to audit."
+if not files:
+    content_to_check = "No data files found to audit."
 else:
-    # Read the first file found (or loop through all)
-    with open(files_to_audit[0], 'r') as f:
-        content = f.read()[:2000] # Send first 2000 chars to stay in limits
-    summary_text = f"Content from {files_to_audit[0]}:\n{content}"
+    # Read the first file (max 5000 chars for a quick audit)
+    with open(files[0], 'r') as f:
+        content_to_check = f.read()[:5000] 
 
-# 3. Ask Gemini for an expert review
-prompt = f"""
-Act as a Senior Data Scientist. Review this file content for 'bugs', 
-logic errors, or optimization tips:
+# 3. Ask Gemini 3 Flash for a Senior Review
+response = client.models.generate_content(
+    model='gemini-3-flash', 
+    contents=f"Act as a Senior Data Scientist. Audit this file for bugs, outliers, or SQL logic errors:\n{content_to_check}"
+)
+
+# 4. Save the professional report
+with open("DATA_AUDIT_REPORT.md", "w") as f:
+    f.write("# 🤖 Automated Data Science Audit\n")
+    f.write(response.text)
+ tips:
 {summary_text}
 """
 
