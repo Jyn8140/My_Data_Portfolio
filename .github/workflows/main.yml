@@ -1,4 +1,6 @@
 
+
+
 name: Portfolio Automation
 on: [push]
 
@@ -6,7 +8,7 @@ jobs:
   audit_job:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Allows the robot to save the report back to your repo
+      contents: write # Allows the robot to save the report to your repo
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -31,5 +33,3 @@ jobs:
           git add DATA_AUDIT_REPORT.md
           git commit -m "Auto-generated data audit" || echo "No changes to commit"
           git push
-
-
