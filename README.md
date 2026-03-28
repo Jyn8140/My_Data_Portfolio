@@ -1,3 +1,6 @@
+![Portfolio Automation](https://github.com/Jyn8140/My_Data_Portfolio/actions/workflows/main.yml/badge.svg)
+
+
 ## 🚗 Project: Vehicle Market Analysis
 **Main File:** 'VEHICLE ANALYSIS PROJECT.ipynb'
 
