@@ -1,8 +1,8 @@
 name: Portfolio Automation
-on: [push]
+on: [push] # Runs every time you upload code
 
 jobs:
-  audit_job:
+  audit:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -21,10 +21,12 @@ jobs:
           GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python auto_audit.py
 
-      - name: Save Report
+      - name: Commit Report
         run: |
           git config --global user.name 'GitHub Action'
           git config --global user.email 'action@github.com'
           git add DATA_AUDIT_REPORT.md
           git commit -m "Auto-generated data audit" || echo "No changes"
           git push
+
+
