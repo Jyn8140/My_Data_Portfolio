@@ -1,38 +1,51 @@
+
 import os
 import glob
 from google import genai
 
-# 1. Setup Gemini 3 Flash
-client = genai.Client(api_key=os.getenv("GOOGLE_API_KEY"))
+# 1. Setup Gemini 3 Flash Client
+# Make sure your GitHub Secret is named GEMINI_API_KEY
+api_key = os.getenv("GOOGLE_API_KEY")
+client = genai.Client(api_key=api_key)
 
-# 2. Find any Data Science files (CSV, SQL, or Notebooks)
-files = glob.glob("*.csv") + glob.glob("*.sql") + glob.glob("*.ipynb")
+# 2. Find files to audit (Notebooks, SQL, or CSVs)
+files = glob.glob("*.ipynb") + glob.glob("*.sql") + glob.glob("*.csv")
 
 if not files:
-    content_to_check = "No data files found to audit."
+    content_to_check = "No specific data science files found in the root directory."
+    file_name = "None"
 else:
-    # Read the first file (max 5000 chars for a quick audit)
-    with open(files[0], 'r') as f:
+    file_name = files[0]
+    with open(file_name, 'r', encoding='utf-8') as f:
+        # Read the first 5000 characters to stay within free limits
         content_to_check = f.read()[:5000] 
 
-# 3. Ask Gemini 3 Flash for a Senior Review
-response = client.models.generate_content(
-    model='gemini-3-flash', 
-    contents=f"Act as a Senior Data Scientist. Audit this file for bugs, outliers, or SQL logic errors:\n{content_to_check}"
-)
+# 3. Request a Senior Data Scientist Review
+prompt = f"""
+Act as a Senior Data Scientist and Code Auditor. 
+Review the following content from the file '{file_name}'.
+Check for:
+1. Logic errors or bugs.
+2. Data quality issues (outliers, missing values).
+3. Suggestions for better visualization or SQL optimization.
 
-# 4. Save the professional report
-with open("DATA_AUDIT_REPORT.md", "w") as f:
-    f.write("# 🤖 Automated Data Science Audit\n")
-    f.write(response.text)
- tips:
-{summary_text}
+Content:
+{content_to_check}
 """
 
-response = model.generate_content(prompt)
+try:
+    response = client.models.generate_content(
+        model='gemini-2.0-flash', 
+        contents=prompt
+    )
+    report_text = response.text
+except Exception as e:
+    report_text = f"Error generating report: {str(e)}"
 
-# 4. Save the report
-with open("DATA_AUDIT_REPORT.md", "w") as f:
-    f.write("# 🤖 Automated Data & Code Audit\n")
-    f.write(response.text)
-print("Report generated successfully!")
+# 4. Save the results to a Markdown file
+with open("DATA_AUDIT_REPORT.md", "w", encoding='utf-8') as f:
+    f.write(f"# 🤖 Automated Data Science Audit\n")
+    f.write(f"**Target File:** {file_name}\n\n")
+    f.write(report_text)
+
+print(f"Successfully audited {file_name}")
