@@ -17,8 +17,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        # This command ensures we have the newest stable library
-        run: pip install --upgrade google-generativeai nbformat pandas seaborn matplotlib
+        run: pip install google-generativeai nbformat
 
       - name: Run Gemini Audit
         env:
