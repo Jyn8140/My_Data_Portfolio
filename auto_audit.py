@@ -1,35 +1,39 @@
+import os
+import glob
+import google.generativeai as genai
+import nbformat
 
-name: Portfolio Automation
-on: [push]
+# 1. Setup API
+api_key = os.getenv("GEMINI_API_KEY")
+genai.configure(api_key=api_key)
 
-jobs:
-  audit_job:
-    runs-on: ubuntu-latest
-    permissions:
-      contents: write
-    
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v4
+# 2. Find the Analysis File
+target_files = glob.glob("*.ipynb")
+if not target_files:
+    print("No notebook found.")
+    exit(1)
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.10'
+file_name = target_files[0]
 
-      - name: Install Dependencies
-        # We are using the stable library: google-generativeai
-        run: pip install google-generativeai nbformat pandas seaborn matplotlib
+# 3. Read the content
+with open(file_name, 'r', encoding='utf-8') as f:
+    nb = nbformat.read(f, as_version=4)
+    code_content = ""
+    for cell in nb.cells:
+        if cell.cell_type == 'code':
+            code_content += cell.source + "\n\n"
 
-      - name: Run Gemini Audit
-        env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python auto_audit.py
+# 4. Talk to Gemini 1.5-Flash (The Stable Model)
+model = genai.GenerativeModel('gemini-1.5-flash')
+prompt = f"Audit this vehicle analysis for visualization clarity and price logic:\n\n{code_content[:15000]}"
 
-      - name: Save Report
-        run: |
-          git config --global user.name 'GitHub Action'
-          git config --global user.email 'action@github.com'
-          git add DATA_AUDIT_REPORT.md
-          git commit -m "Auto-generated data audit" || echo "No changes to commit"
-          git push
+try:
+    response = model.generate_content(prompt)
+    audit_text = response.text
+except Exception as e:
+    audit_text = f"Audit failed: {str(e)}"
+
+# 5. Save the report
+with open("DATA_AUDIT_REPORT.md", "w", encoding="utf-8") as f:
+    f.write(f"# 🤖 Automated Data Science Audit\n\nTarget: {file_name}\n\n")
+    f.write(audit_text)
