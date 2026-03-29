@@ -17,7 +17,7 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: pip install google-genai pandas seaborn matplotlib nbformat
+        run: pip install google-generativeai nbformat pandas seaborn matplotlib nbformat
 
       - name: Run Gemini Audit
         env:
