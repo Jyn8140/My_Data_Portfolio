@@ -3,6 +3,10 @@ import glob
 import google.generativeai as genai
 import nbformat
 
+# wait 60 sec before calling API
+import time
+time.sleep(60)
+
 # 1. Setup API
 api_key = os.getenv("GEMINI_API_KEY")
 genai.configure(api_key=api_key)
