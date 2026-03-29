@@ -1,14 +1,13 @@
 
-
 import os
 import glob
-from google import genai
+import google.generativeai as genai # Switched to the stable library
 
-# 1. FIX: Changed to match your GitHub Secret name
-api_key = os.getenv("GEMINI_API_KEY") 
-client = genai.Client(api_key=api_key)
+# 1. Setup Client
+api_key = os.getenv("GEMINI_API_KEY")
+genai.configure(api_key=api_key)
 
-# Look for Notebooks or CSVs
+# 2. Look for your notebook
 target_files = glob.glob("*.ipynb") + glob.glob("*.csv")
 
 if not target_files:
@@ -16,30 +15,29 @@ if not target_files:
     file_name = "None"
 else:
     file_name = target_files[0]
-    # 2. IMPROVEMENT: We read the file to actually send it to the AI
     with open(file_name, 'r', encoding='utf-8') as f:
-        file_content = f.read()[:15000] # Read more text for a better audit
+        # We read the first 10,000 characters to keep it within free limits
+        file_content = f.read()[:10000]
 
-# 3. FIX: Actually put the {file_content} inside the prompt so the AI can see it
+# 3. Use the stable Model
+model = genai.GenerativeModel('gemini-1.5-flash')
+
 prompt = f"""
-Act as a Senior Data Scientist. I have added Seaborn visualizations to my Vehicle Analysis. 
-Audit this file ({file_name}) for visual clarity of Seaborn plots and statistical insights from the price distribution.
+Act as a Senior Data Scientist. Audit this file ({file_name}) 
+for visual clarity of Seaborn plots and statistical insights.
 
-FILE CONTENT TO AUDIT:
+CONTENT:
 {file_content}
 """
 
 try:
-    # 4. FIX: Changed model to gemini-1.5-flash to bypass the 'Limit 0' error
-    response = client.models.generate_content(
-        model='gemini-1.5-flash',
-        contents=prompt
-    )
+    # 4. Generate Content (Stable method)
+    response = model.generate_content(prompt)
     audit_text = response.text
 except Exception as e:
     audit_text = f"Audit delayed: {str(e)}"
 
-# Save the report
+# 5. Save the report
 with open("DATA_AUDIT_REPORT.md", "w", encoding="utf-8") as f:
     f.write(f"# 🤖 Automated Data Science Audit\n\nTarget: {file_name}\n\n")
     f.write(audit_text)
