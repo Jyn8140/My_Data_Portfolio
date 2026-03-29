@@ -28,8 +28,8 @@ except Exception as e:
     exit(1)
 
 # 4. Talk to the AI
-# Using 'gemini-2.0-flash-latest' to ensure we hit the most stable server
-model = genai.GenerativeModel('gemini-2.0-flash-latest')
+# Using 'gemini-2.0-flash' to ensure we hit the most stable server
+model = genai.GenerativeModel('gemini-2.0-flash')
 
 prompt = f"""
 Act as a Senior Data Scientist. 
