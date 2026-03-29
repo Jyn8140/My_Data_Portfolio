@@ -5,7 +5,7 @@ jobs:
   audit_job:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Important: Allows the bot to save the report
+      contents: write
     
     steps:
       - name: Checkout code
@@ -17,11 +17,11 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: pip install google-generativeai nbformat pandas seaborn matplotlib nbformat
+        # We are using the stable library: google-generativeai
+        run: pip install google-generativeai nbformat pandas seaborn matplotlib
 
       - name: Run Gemini Audit
         env:
-          # FIX: Put this on one line and match the name in your Python script
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python auto_audit.py
 
