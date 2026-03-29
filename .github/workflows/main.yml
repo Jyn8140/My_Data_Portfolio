@@ -1,6 +1,3 @@
-
-
-
 name: Portfolio Automation
 on: [push]
 
@@ -8,7 +5,8 @@ jobs:
   audit_job:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # Allows the robot to save the report to your repo
+      contents: write # Important: Allows the bot to save the report
+    
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -19,11 +17,12 @@ jobs:
           python-version: '3.10'
 
       - name: Install Dependencies
-        run: pip install google-genai pandas seaborn matplotlib
+        run: pip install google-genai pandas seaborn matplotlib nbformat
 
       - name: Run Gemini Audit
         env:
-          GOOGLE_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          # FIX: Put this on one line and match the name in your Python script
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python auto_audit.py
 
       - name: Save Report
